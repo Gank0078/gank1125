@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wechat.jpg"
+  avatar           : "gankai.png"
   name             : "Kai Gan (甘凯)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate at SEU"
