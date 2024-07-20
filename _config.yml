@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Kai Gan"
-title_separator          : "./profile.png"
+title_separator          : "wechat.jpg"
 name                     : &name "Kai Gan"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
