@@ -11,7 +11,7 @@ I'm a first-year Ph.D. candidate from [School of Computer Science and Engineerin
 
 I am very fortunate to be advised by [Prof. Tong Wei](https://palm.seu.edu.cn/weit/) of [PALM group](https://palm.seu.edu.cn/), Southeast University.
 
-[Email](mailto:gank@seu.edu.cn) / [Github](https://github.com/Gank0078) / [Wechat](wechat.jpg)
+[Email](mailto:gank@seu.edu.cn) / [Github](https://github.com/Gank0078) / [Wechat](images/wechat.jpg)
 
 A data-driven personal website
 ======
