@@ -3,7 +3,7 @@ title: "Towards realistic long-tailed semi-supervised learning: Consistency is a
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Tong Wei, Kai Gan'
-date: 2023-10-01
+date: 2023-06-18
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 paperurl: '[ACR](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Towards_Realistic_Long-Tailed_Semi-Supervised_Learning_Consistency_Is_All_You_Need_CVPR_2023_paper.pdf)'
 ---
