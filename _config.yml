@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gankai.png"
+  avatar           : "images/gankai.png"
   name             : "Kai Gan (甘凯)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. candidate at SEU"
+  location         : "Nanjing"
+  employer         : "Southeast University"
   uri              : # URL
   email            : "none@example.org" 
 
