@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. Tong Wei](https://palm.seu.edu.cn/we
 
 ## Publications
 
-- **John Doe**, XHan, *A Novel Approach to Deep Learning*, *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2022, [DOI: 10.1109/CVPR.2022.0098](https://doi.org/10.1109/CVPR.2022.0098).
-- <b>Zhongyi Han</b>, Xian-Jin Gui, Chaoran Cui, Yilong Yin, &quot; Towards Accurate and Robust Domain Adaptation under Noisy Environments&quot;. <i>the 29th International Joint Conference on Artificial Intelligence</i>, 2020.
+- Bo Ye, <b>Kai Gan</b>, Tong Wei, Min-Ling Zhang, &quot; Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning;. <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24), Jeju, South Korea</i>, 2024. [Paper](mailto:gank@seu.edu.cn) [Code](mailto:gank@seu.edu.cn)
+- Tong Wei, <b>Kai Gan</b>, &quot; Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need;. <i>Proceedings of the 34th IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'23), Vancouver, Canada</i>, 2023. [Paper](mailto:gank@seu.edu.cn) [Code](mailto:gank@seu.edu.cn)
 
 [Email](mailto:gank@seu.edu.cn) / [Github](https://github.com/Gank0078) / [Wechat](images/wechat.jpg)
