@@ -18,11 +18,6 @@ I am very fortunate to be advised by [Prof. Tong Wei](https://palm.seu.edu.cn/we
 - Tong Wei, **Kai Gan**, "Towards Realistic Long-Tailed Semi-Supervised Learning: Consistency Is All You Need." Proceedings of the 34th IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'23), Vancouver, Canada, 2023. [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Towards_Realistic_Long-Tailed_Semi-Supervised_Learning_Consistency_Is_All_You_Need_CVPR_2023_paper.html) [Code](https://github.com/Gank0078/ACR)
 
 ## Viewing Stats
-
-<!-- <div style='width:350px;height:3500px;margin:0 auto'>
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4HIu0QzaVjxZ6lANkwG5E12bXki5oB6rfb-tI4vEPyQ&cl=ffffff&w=a"></script>
-</div> -->
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xIYdraSx8fRarw5QPwn9OsGSHC0E3a2iArnFWuSJly4&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=woUlRkl0h3lNMz4u7TNTiP_tXIJxR2fiqbG39YcxmSU&cl=ffffff&w=a"></script>
 
 [Email](mailto:gank@seu.edu.cn) / [Github](https://github.com/Gank0078) / [Wechat](images/wechat.jpg)
