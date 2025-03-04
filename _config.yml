@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Kai Gan"
-title_separator          : "wechat.jpg"
+title_separator          : ""
 name                     : &name "Kai Gan"
 description              : &description "personal description"
 url                      : https://gank0078.github.io/gank1125 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
